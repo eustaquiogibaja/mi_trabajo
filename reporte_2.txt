@@ -1,0 +1,7 @@
+<INICIO>
+1. Obtener datos de fuente origen
+2. Obtener ventas del Día
+  2.1 Filtrar ventas del sector in ('TRUJILLO','PIURA','CHICLAYO','CHIMBOTE','TUMBES')
+  2.2 Filtrar productos in ('ELECTRODOMESTICOS','CELULARES','JUGUETES')
+3. Msotrar detalle de Ventas de Día
+<FIN>
